@@ -1,0 +1,13 @@
+#include "martini_v2.itp"
+#include "martini_ions.itp"
+  
+#include "peptide.itp"
+    
+[ system ]
+; name
+Martini system from aa.pdb
+    
+[ molecules ]
+; name        number
+Protein_A		XXX
+W				YYYYY
